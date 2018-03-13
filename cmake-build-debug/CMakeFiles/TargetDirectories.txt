@@ -1,5 +1,0 @@
-/home/igor/CLionProjects/interview-questions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/igor/CLionProjects/interview-questions/cmake-build-debug/CMakeFiles/main.dir
-/home/igor/CLionProjects/interview-questions/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/igor/CLionProjects/interview-questions/cmake-build-debug/CMakeFiles/CMakeCXXCompilerId.dir
-/home/igor/CLionProjects/interview-questions/cmake-build-debug/CMakeFiles/1_1.dir

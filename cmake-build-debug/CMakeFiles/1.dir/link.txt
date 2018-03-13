@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/1.dir/1_-_Arrays_and_Strings/1.1.cpp.o  -o 1 
